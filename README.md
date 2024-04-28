@@ -14,7 +14,7 @@
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Amardeep111&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tech-Fear&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amardeep111&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ## 🏆 GitHub Trophies
